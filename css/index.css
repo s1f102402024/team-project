@@ -4,6 +4,10 @@ h1 {
     background-color:rgb(189, 113, 255);
     color:rgb(59, 3, 76);
 }
+#container {
+    display: flex;
+    flex-direction: row-reverse;
+  }
 .table_of_contents li {
     display: block;
     text-align: center;
@@ -15,9 +19,16 @@ h1 {
 }
 
 .table_of_contents a {
-    display: block;
     text-decoration: none;
     color: #7801ff;
+}
+.table_of_contents{
+    width: 30%;
+    margin: 10px 0 10px 0;
+}
+.main_body {
+    width: 70%;
+    margin: 10px 0 10px 0;
 }
 #top {
   position: fixed;
