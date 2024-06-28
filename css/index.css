@@ -4,6 +4,21 @@ h1 {
     background-color:rgb(189, 113, 255);
     color:rgb(59, 3, 76);
 }
+.table_of_contents li {
+    display: block;
+    text-align: center;
+    margin: 0px 0px 5px 0px;
+    padding: 5px 5px 5px 5px;
+    border-right: solid 4px #d0a0f7;
+    border-left: solid 4px #d0a0f7;
+    background-color: #f1dffc;
+}
+
+.table_of_contents a {
+    display: block;
+    text-decoration: none;
+    color: #7801ff;
+}
 #top {
   position: fixed;
   left: 10px;
