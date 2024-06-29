@@ -41,6 +41,9 @@ h1#title {
   color: #ffffff;
   text-decoration: none;
 }
+img.main_img {
+    width: 350px;
+}
 h2.h2id {
     text-align: center;
     border: 2px solid #a672e0;
@@ -54,3 +57,9 @@ h2.h2id {
 /*#enomotoのcss↓*/
 
 /*#akimichiのcss↓*/
+img.aki_img {
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 2px 5px #0000001c;
+}
