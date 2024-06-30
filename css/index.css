@@ -63,3 +63,6 @@ img.aki_img {
     padding: 5px;
     box-shadow: 0 2px 5px #0000001c;
 }
+mark {
+    background: linear-gradient(transparent 50%, #ffff00 80%);
+}
