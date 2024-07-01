@@ -19,6 +19,7 @@ h1#title {
 }
 
 .table_of_contents a {
+    display: block;
     text-decoration: none;
     color: #7801ff;
 }
