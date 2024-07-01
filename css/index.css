@@ -66,3 +66,15 @@ img.aki_img {
 mark {
     background: linear-gradient(transparent 50%, #ffff00 80%);
 }
+p.example{
+    border: 2px solid #000000;
+    padding: 2px;
+
+}
+#akimichi h2 {
+    border-left: 6px solid #000000;
+    padding-left: 10px;
+}
+table p {
+    text-align: center;
+}
